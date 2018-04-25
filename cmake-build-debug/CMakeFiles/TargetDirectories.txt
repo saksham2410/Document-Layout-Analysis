@@ -1,0 +1,3 @@
+/Users/saksham/Desktop/sem 4/Document Layout Analysis/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/saksham/Desktop/sem 4/Document Layout Analysis/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/saksham/Desktop/sem 4/Document Layout Analysis/cmake-build-debug/CMakeFiles/Document_Layout_Analysis.dir
